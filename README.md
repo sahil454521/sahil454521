@@ -26,8 +26,8 @@ I'm **Sahil Nilesh Pathak**, a passionate **AI/ML Enthusiast**, **Full-Stack Dev
 - 🔹 **[Use of AI Bot On Website](https://github.com/sahil454521/ai-ecommerce):**  
   AI-powered bot for e-commerce, offering price predictions, bidding, bartering, and more.
 
-- 🔹 **[Image Genmodel](https://github.com/sahil454521/LLM):**
-  An AI Which can generate the images based on the prompt
+- 🔹 **[Image Genmodel](https://github.com/sahil454521/LLM):**<br>
+  An AI Which can generate the images based on the prompt given to it.</br>
   
 - 🔹 **[SAO-Inspired Game](https://github.com/sahil454521/SAO-Game):**  
   AI-driven RPG game inspired by Sword Art Online, featuring immersive gameplay and storytelling.
