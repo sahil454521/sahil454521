@@ -23,7 +23,7 @@ I'm **Sahil Nilesh Pathak**, a passionate **AI/ML Enthusiast**, **Full-Stack Dev
 ---
 
 ### 🌟 Projects
-- 🔹 **[Use of AI Bot On Website]([https://github.com/sahil454521/ai-ecommerce]):**  
+- 🔹 **[Use of AI Bot On Website](https://github.com/sahil454521/ai-ecommerce):**  
   AI-powered bot for e-commerce, offering price predictions, bidding, bartering, and more.
   
 - 🔹 **[SAO-Inspired Game](https://github.com/sahil454521/SAO-Game):**  
