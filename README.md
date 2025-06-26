@@ -66,8 +66,7 @@ const sahil = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil454521&theme=radical" alt="GitHub Streak"/>
-</div>
+  
 
 ## 🏆 GitHub Trophies
 <div align="center">
