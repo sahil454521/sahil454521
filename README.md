@@ -27,7 +27,6 @@ const sahil = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🚀 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,13 +39,11 @@ const sahil = {
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI/ML & Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -57,45 +54,9 @@ const sahil = {
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 🌟 Featured AI Projects
-
-### 🧠 [AI Compiler](https://github.com/sahil454521/aicompiler)
-> Intelligent compiler that uses AI to optimize code compilation and provide smart suggestions
-- **Tech Stack:** Python, LLVM, self trained code suggestion model, Natural Language Processing
-- **Features:** 
-  - AI-powered error detection and fixing
-  - Natural language to code compilation
-
-### 💻 [AI Terminal](https://github.com/sahil454521/ai-terminal)
-> Revolutionary terminal interface powered by AI for enhanced command-line experience
-- **Tech Stack:** Python, Deepseek API, Terminal UI Libraries, Shell Integration
-- **Features:**
-  - Intelligent command suggestions
-  - Auto-completion with context awareness
-  - Cross-platform compatibility
-
-
-### 📚 [Margdarshan Platform](https://github.com/sahil454521/margdarshan)
-> AI-enhanced educational guidance platform for personalized learning
-- **Tech Stack:** React, Node.js, MongoDB, AI/ML APIs
-- **Features:** Personalized learning paths, AI tutoring, Progress analytics
-
-## 🔧 Development Tools & Utilities
-
-### 🛠️ AI-Powered Development Suite
-- **Smart Code Generator** - AI-assisted code generation
-- **Intelligent Debugger** - AI-powered bug detection and fixes
-- **Performance Optimizer** - Automated code optimization
-- **Documentation Generator** - Auto-generate comprehensive docs
-
-### 🎯 Specialized Tools
-- **Compiler Optimization Engine** - Advanced compilation techniques
-- **Terminal Enhancement Suite** - Next-gen command-line tools
-- **AI Code Review System** - Automated code quality analysis
 
 ## 📊 GitHub Analytics
 
@@ -118,6 +79,23 @@ const sahil = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil454521&theme=radical" alt="Contribution Graph"/>
 </div>
 
+## 🔥 Commit Stats & Activity
+
+<div align="center">
+  
+### 📅 Daily Commitment
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/sahil454521/sahil454521?style=for-the-badge&logo=github&color=00D4FF)
+![GitHub last commit](https://img.shields.io/github/last-commit/sahil454521/sahil454521?style=for-the-badge&logo=github&color=FF6B6B)
+
+### 📊 Contribution Calendar (Green Dots!)
+<img src="https://ghchart.rshah.org/00D4FF/sahil454521" alt="GitHub Contribution Chart" width="100%"/>
+
+### 🏃‍♂️ Coding Streak & Consistency
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil454521&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak Stats"/>
+
+</div>
+
+
 ## 🔥 Recent AI Innovations
 
 ```python
@@ -125,9 +103,7 @@ class AIInnovator:
     def __init__(self):
         self.current_projects = [
             "AI Compiler with natural language processing",
-            "Intelligent terminal with context-aware suggestions",
-            "Smart development environment integration",
-            "Advanced code optimization algorithms"
+            "Intelligent terminal with context-aware suggestions"
         ]
     
     def next_goals(self):
