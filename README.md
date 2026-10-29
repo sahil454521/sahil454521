@@ -17,13 +17,13 @@ I build the surface and the thing underneath it, and I stay on afterwards. Final
 <!-- status:start -->
 | | Live site | What it is | Last answer |
 |:-:|---|---|--:|
-| <img src="assets/up.svg" width="14" alt="up"> | [desitotes.com](https://desitotes.com) | Client, commerce. Razorpay, INR and USD | 510 ms |
-| <img src="assets/up.svg" width="14" alt="up"> | [amgprojectsllp.com](https://amgprojectsllp.com) | Client, construction. The site and the APIs behind it | 1258 ms |
-| <img src="assets/up.svg" width="14" alt="up"> | [NeuraCraft](https://ai-compiler-eta.vercel.app) | Browser editor that suggests ML code as you type | 2522 ms |
-| <img src="assets/up.svg" width="14" alt="up"> | [AI Terminal](https://ai-chat-bot-gcar.vercel.app) | A terminal front end for a language model | 485 ms |
-| <img src="assets/up.svg" width="14" alt="up"> | [Portfolio Quest](https://gamifyport.vercel.app) | My portfolio as a pixel-art game | 1153 ms |
+| <img src="assets/up.svg" width="14" alt="up"> | [desitotes.com](https://desitotes.com) | Client, commerce. Razorpay, INR and USD | 515 ms |
+| <img src="assets/up.svg" width="14" alt="up"> | [amgprojectsllp.com](https://amgprojectsllp.com) | Client, construction. The site and the APIs behind it | 1636 ms |
+| <img src="assets/up.svg" width="14" alt="up"> | [NeuraCraft](https://ai-compiler-eta.vercel.app) | Browser editor that suggests ML code as you type | 2478 ms |
+| <img src="assets/up.svg" width="14" alt="up"> | [AI Terminal](https://ai-chat-bot-gcar.vercel.app) | A terminal front end for a language model | 656 ms |
+| <img src="assets/up.svg" width="14" alt="up"> | [Portfolio Quest](https://gamifyport.vercel.app) | My portfolio as a pixel-art game | 1048 ms |
 
-<sub>5 of 5 answering. Fetched and timed from GitHub Actions every 6 hours; last run 2026-10-28 22:41 UTC.</sub>
+<sub>5 of 5 answering. Fetched and timed from GitHub Actions every 6 hours; last run 2026-10-29 05:58 UTC.</sub>
 <!-- status:end -->
 
 ## The work
